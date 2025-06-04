@@ -6,14 +6,16 @@ The location of obnoxious facilities is an optimization problem with a large soc
 ## Authors
 - Sergio Salazar Cárdenas (https://orcid.org/0009-0007-3492-2221)
 - Oscar Cordón (https://orcid.org/0000-0001-5112-5629)
-- Jose Manuel Colmenar (https://orcid.org/0000-0001-7490-9450)
+- José Manuel Colmenar (https://orcid.org/0000-0001-7490-9450)
   
 ## Datasets
 
 Dataset information could be obtained in https://doi.org/10.1016/j.omega.2022.102639.
 
 
-[//]: <> (## Compiling)
+## Code
+
+Final experiment can be locate in this  java [CODE](https://github.com/SergioSalazarC/pMedianVariableProblem/blob/master/src/Experimentos/MainMemetico_modified.java) file. This shows a general framework to solve any of the generated instances, in this case is setted to solve n=100 and p=2 instance.
 
 [//]: <> (## Executing)
 
