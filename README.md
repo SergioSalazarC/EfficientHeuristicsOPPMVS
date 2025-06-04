@@ -17,6 +17,8 @@ Dataset information could be obtained in https://doi.org/10.1016/j.omega.2022.10
 
 Final experiment can be locate in this  java [CODE](https://github.com/SergioSalazarC/pMedianVariableProblem/blob/master/src/Experimentos/MainMemetico_modified.java) file. This shows a general framework to solve any of the SOTA benchmark instances, in this case is setted to solve n=100 and p=2 instance.
 
+### Dependencies
+- Gurobi 11.0.3 ([Java Package](https://docs.gurobi.com/projects/optimizer/en/current/reference/java.html))
 [//]: <> (## Executing)
 
 
