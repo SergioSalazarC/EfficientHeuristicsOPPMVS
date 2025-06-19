@@ -44,9 +44,9 @@ The location of obnoxious facilities is an optimization problem with a large soc
 </tr>
 </table>
   
-## Datasets
+## Benchmarks
 
-Dataset information could be obtained in https://doi.org/10.1016/j.omega.2022.102639.
+Benchmarks information could be obtained in https://doi.org/10.1016/j.omega.2022.102639.
 
 
 ## Code
@@ -69,9 +69,9 @@ Consider citing our paper if used in your own work:
 
 
 ### DOI
-https://doi.org/XXXXXXX
+[https://doi.org/j.asoc.2025.113401](https://doi.org/10.1016/j.asoc.2025.113401)
 ### Zenodo
-https://doi.org/XXXXXXX
+[https://doi.org/10.5281/zenodo.15689089](https://doi.org/10.5281/zenodo.15689089)
 ### Bibtex
 ```bibtex
 @article{
