@@ -74,8 +74,15 @@ Consider citing our paper if used in your own work:
 [https://doi.org/10.5281/zenodo.15689089](https://doi.org/10.5281/zenodo.15689089)
 ### Bibtex
 ```bibtex
-@article{
-...
-}
+@article{salazar2025113401,
+title = {Efficient heuristics for the obnoxious planar p-median problem with variable sizes},
+journal = {Applied Soft Computing},
+volume = {181},
+pages = {113401},
+year = {2025},
+issn = {1568-4946},
+doi = {https://doi.org/10.1016/j.asoc.2025.113401},
+url = {https://www.sciencedirect.com/science/article/pii/S1568494625007124},
+author = {Sergio Salazar and Oscar Cordón and J. Manuel Colmenar},
 ```
 
